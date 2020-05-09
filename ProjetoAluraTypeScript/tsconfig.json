@@ -6,7 +6,7 @@
         "noImplicitAny": true,
         "removeComments": true, 
         "module": "System",
-        //Diz se podemos usar null ou undefined
+        //Diz se podemos usar null ou undefinedd
         "strictNullChecks": true,
         "experimentalDecorators": true
     },
